@@ -32,13 +32,15 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
+					    <uri>https://anypoint.mulesoft.com</uri>
 						<username>ashishjaiswal_cr</username>
 						<password>MuleSoft@5775</password>
 						<muleVersion>4.3.0</muleVersion>
+						<applicationName>worldtimedemo-proj</applicationName>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimedemo</applicationName>
 						<environment>Sandbox</environment>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
