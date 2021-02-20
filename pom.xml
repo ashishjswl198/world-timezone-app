@@ -36,7 +36,7 @@
 				<password>MuleSoft@5775</password>
 				<muleVersion>4.3.0</muleVersion>
 				<workers>1</workers>
-				<workerSize>Micro</workerSize>
+				<workerType>Micro</workerType>
 				<appName>worldtimezoneproj</appName>
 				<environment>Sandbox</environment>
 				</cloudHubDeployment>
